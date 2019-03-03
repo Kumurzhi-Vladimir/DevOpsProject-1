@@ -1,4 +1,3 @@
-#!/bin/sh
 ---
 - name: Test Connection to my servers
   hosts: all
