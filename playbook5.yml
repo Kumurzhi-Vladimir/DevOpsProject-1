@@ -1,10 +1,11 @@
----
+--
 - name: Test Connection to my servers
-  hosts: reserv
+  hosts: servers
   become: yes
-    
+
   tasks:
-  
+
   - name: Ping my servers
     ping:
+
 
