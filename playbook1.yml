@@ -5,6 +5,6 @@
     
   tasks:
   
-  - name: Ping my all servers
+  - name: Ping my servers
     ping:
 
